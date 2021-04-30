@@ -3,6 +3,10 @@
 
 ## Description
 My motivation for this project was to build the back end for an e-commerce site using Express.js API to use Sequelize to interact with a MySQL database. I built this project for a manager at an internet retail company who wanted a back end for their e-commerce website that uses the latest technologies. Express.js and Sequelize allowed me to build API routes to perfrom RESTful CRUD operations to a database. This project taught me that Express.js and Sequelize is useful in making complex queries to a SQL database with JavaScript instead of SQL syntax.
+
+### Walk-thru video link
+
+[Click Here to Watch](https://drive.google.com/file/d/1Wp4Hv_AC72KDj_ptLTeRFTmf6p5ICVK9/view)
             
 ## Table of Contents
             
